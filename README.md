@@ -10,3 +10,6 @@ Data Visualization
 Data Analysis
 Sales Analytics
 KPI Metric Development
+
+Tableau Link
+https://www.upwork.com/freelancers/~01b55d47a1d95821be?p=1866907947291852800
