@@ -1,0 +1,501 @@
+Order Date,Region,State,Category,Sub-Category,Sales,Discount (%),Revenue
+2023-01-01 00:00:00.000000000,East,Georgia,Furniture,Desks,202,23,155.54
+2023-01-01 17:33:18.396793587,North,Michigan,Electronics,Shirts,535,21,422.65
+2023-01-02 11:06:36.793587174,West,Ohio,Clothing,Phones,960,24,729.6
+2023-01-03 04:39:55.190380761,South,Illinois,Furniture,Shirts,370,14,318.2
+2023-01-03 22:13:13.587174348,West,New York,Groceries,Desks,206,10,185.4
+2023-01-04 15:46:31.983967935,East,Michigan,Furniture,Milk,171,19,138.51
+2023-01-05 09:19:50.380761523,South,North Carolina,Electronics,Bread,800,15,680.0
+2023-01-06 02:53:08.777555110,East,Michigan,Electronics,Chairs,120,9,109.2
+2023-01-06 20:26:27.174348697,North,Georgia,Electronics,Phones,714,5,678.3
+2023-01-07 13:59:45.571142284,South,New York,Groceries,Laptops,221,12,194.48
+2023-01-08 07:33:03.967935871,East,Virginia,Groceries,Phones,566,16,475.44
+2023-01-09 01:06:22.364729458,South,Georgia,Electronics,Milk,314,16,263.76
+2023-01-09 18:39:40.761523046,West,North Carolina,Furniture,Pants,430,9,391.3
+2023-01-10 12:12:59.158316633,East,New York,Groceries,Chairs,558,11,496.62
+2023-01-11 05:46:17.555110220,South,California,Furniture,Laptops,187,8,172.04
+2023-01-11 23:19:35.951903807,West,Ohio,Clothing,Laptops,472,10,424.8
+2023-01-12 16:52:54.348697394,West,Ohio,Groceries,Desks,199,17,165.17
+2023-01-13 10:26:12.745490981,South,New York,Clothing,Milk,971,24,737.96
+2023-01-14 03:59:31.142284569,West,Michigan,Groceries,Milk,763,19,618.03
+2023-01-14 21:32:49.539078156,West,Illinois,Furniture,Pants,230,7,213.9
+2023-01-15 15:06:07.935871743,East,Michigan,Furniture,Laptops,761,12,669.68
+2023-01-16 08:39:26.332665330,East,Florida,Electronics,Chairs,408,24,310.08
+2023-01-17 02:12:44.729458917,East,Virginia,Furniture,Desks,869,20,695.2
+2023-01-17 19:46:03.126252505,South,Florida,Clothing,Laptops,443,17,367.69
+2023-01-18 13:19:21.523046092,North,New York,Groceries,Phones,591,22,460.98
+2023-01-19 06:52:39.919839679,West,Ohio,Clothing,Laptops,513,14,441.18
+2023-01-20 00:25:58.316633266,West,Ohio,Furniture,Shirts,905,23,696.85
+2023-01-20 17:59:16.713426853,North,North Carolina,Groceries,Desks,485,21,383.15
+2023-01-21 11:32:35.110220440,West,California,Furniture,Shirts,291,23,224.07
+2023-01-22 05:05:53.507014028,North,Michigan,Clothing,Pants,376,9,342.16
+2023-01-22 22:39:11.903807615,West,Texas,Furniture,Phones,260,13,226.2
+2023-01-23 16:12:30.300601202,South,Michigan,Groceries,Chairs,559,16,469.56
+2023-01-24 09:45:48.697394789,South,California,Electronics,Desks,413,5,392.35
+2023-01-25 03:19:07.094188376,East,North Carolina,Clothing,Pants,121,5,114.95
+2023-01-25 20:52:25.490981963,East,Ohio,Clothing,Pants,352,19,285.12
+2023-01-26 14:25:43.887775551,West,California,Clothing,Shirts,847,6,796.18
+2023-01-27 07:59:02.284569138,West,Ohio,Groceries,Pants,956,20,764.8
+2023-01-28 01:32:20.681362725,East,Texas,Furniture,Milk,660,12,580.8
+2023-01-28 19:05:39.078156312,East,North Carolina,Clothing,Pants,574,17,476.42
+2023-01-29 12:38:57.474949899,West,Ohio,Electronics,Shirts,158,5,150.1
+2023-01-30 06:12:15.871743487,South,California,Furniture,Shirts,610,20,488.0
+2023-01-30 23:45:34.268537074,South,North Carolina,Furniture,Shirts,781,11,695.09
+2023-01-31 17:18:52.665330661,West,California,Furniture,Desks,575,9,523.25
+2023-02-01 10:52:11.062124248,North,Michigan,Electronics,Phones,799,7,743.07
+2023-02-02 04:25:29.458917835,North,Illinois,Groceries,Pants,882,16,740.88
+2023-02-02 21:58:47.855711422,East,Ohio,Groceries,Bread,289,20,231.2
+2023-02-03 15:32:06.252505010,South,California,Groceries,Chairs,786,23,605.22
+2023-02-04 09:05:24.649298597,North,Ohio,Electronics,Bread,662,9,602.42
+2023-02-05 02:38:43.046092184,South,Michigan,Furniture,Chairs,975,18,799.5
+2023-02-05 20:12:01.442885771,West,New York,Clothing,Bread,666,9,606.06
+2023-02-06 13:45:19.839679358,South,Texas,Groceries,Bread,343,19,277.83
+2023-02-07 07:18:38.236472946,East,North Carolina,Clothing,Bread,931,21,735.49
+2023-02-08 00:51:56.633266533,South,Michigan,Clothing,Shirts,604,18,495.28
+2023-02-08 18:25:15.030060120,South,Michigan,Groceries,Milk,230,24,174.8
+2023-02-09 11:58:33.426853707,North,New York,Clothing,Bread,584,9,531.44
+2023-02-10 05:31:51.823647294,East,New York,Clothing,Desks,918,16,771.12
+2023-02-10 23:05:10.220440881,North,New York,Clothing,Desks,746,20,596.8
+2023-02-11 16:38:28.617234469,South,Virginia,Furniture,Milk,120,20,96.0
+2023-02-12 10:11:47.014028056,North,Virginia,Clothing,Chairs,940,11,836.6
+2023-02-13 03:45:05.410821643,North,Texas,Furniture,Laptops,266,8,244.72
+2023-02-13 21:18:23.807615230,West,Ohio,Furniture,Chairs,373,5,354.35
+2023-02-14 14:51:42.204408817,East,New York,Furniture,Bread,487,9,443.17
+2023-02-15 08:25:00.601202404,South,Virginia,Clothing,Phones,700,14,602.0
+2023-02-16 01:58:18.997995992,South,North Carolina,Electronics,Desks,415,9,377.65
+2023-02-16 19:31:37.394789579,West,Illinois,Groceries,Desks,113,8,103.96
+2023-02-17 13:04:55.791583166,South,California,Groceries,Phones,341,6,320.54
+2023-02-18 06:38:14.188376753,East,Florida,Groceries,Laptops,876,24,665.76
+2023-02-19 00:11:32.585170340,East,Georgia,Groceries,Phones,445,14,382.7
+2023-02-19 17:44:50.981963927,West,Georgia,Clothing,Pants,664,23,511.28
+2023-02-20 11:18:09.378757515,West,Illinois,Furniture,Pants,997,5,947.15
+2023-02-21 04:51:27.775551102,East,California,Electronics,Pants,439,9,399.49
+2023-02-21 22:24:46.172344689,South,Georgia,Groceries,Laptops,191,17,158.53
+2023-02-22 15:58:04.569138276,West,Florida,Furniture,Chairs,466,8,428.72
+2023-02-23 09:31:22.965931864,West,California,Electronics,Pants,554,20,443.2
+2023-02-24 03:04:41.362725451,West,New York,Furniture,Phones,527,20,421.6
+2023-02-24 20:37:59.759519038,East,California,Electronics,Desks,608,6,571.52
+2023-02-25 14:11:18.156312625,North,Virginia,Clothing,Laptops,875,21,691.25
+2023-02-26 07:44:36.553106212,North,Ohio,Clothing,Desks,134,24,101.84
+2023-02-27 01:17:54.949899799,East,Virginia,Clothing,Shirts,305,16,256.2
+2023-02-27 18:51:13.346693387,West,California,Furniture,Chairs,180,22,140.4
+2023-02-28 12:24:31.743486974,South,Virginia,Clothing,Chairs,661,7,614.73
+2023-03-01 05:57:50.140280561,South,Virginia,Electronics,Desks,971,5,922.45
+2023-03-01 23:31:08.537074148,North,Florida,Electronics,Milk,487,5,462.65
+2023-03-02 17:04:26.933867735,West,Illinois,Groceries,Milk,101,23,77.77
+2023-03-03 10:37:45.330661322,East,California,Furniture,Shirts,489,15,415.65
+2023-03-04 04:11:03.727454910,South,Georgia,Electronics,Chairs,665,9,605.15
+2023-03-04 21:44:22.124248497,South,Ohio,Groceries,Milk,205,16,172.2
+2023-03-05 15:17:40.521042084,North,Texas,Clothing,Pants,871,7,810.03
+2023-03-06 08:50:58.917835671,East,Illinois,Clothing,Laptops,921,5,874.95
+2023-03-07 02:24:17.314629258,North,Texas,Groceries,Phones,576,5,547.2
+2023-03-07 19:57:35.711422845,North,New York,Clothing,Chairs,802,12,705.76
+2023-03-08 13:30:54.108216433,East,Georgia,Furniture,Milk,501,14,430.86
+2023-03-09 07:04:12.505010020,East,Texas,Groceries,Pants,829,15,704.65
+2023-03-10 00:37:30.901803607,West,Texas,Clothing,Milk,655,16,550.2
+2023-03-10 18:10:49.298597194,West,North Carolina,Furniture,Phones,261,17,216.63
+2023-03-11 11:44:07.695390781,North,New York,Groceries,Milk,301,16,252.84
+2023-03-12 05:17:26.092184368,West,Virginia,Groceries,Phones,369,18,302.58
+2023-03-12 22:50:44.488977956,East,Illinois,Groceries,Chairs,962,6,904.28
+2023-03-13 16:24:02.885771543,South,Illinois,Furniture,Desks,915,23,704.55
+2023-03-14 09:57:21.282565130,South,California,Electronics,Shirts,370,22,288.6
+2023-03-15 03:30:39.679358717,East,North Carolina,Furniture,Phones,555,7,516.15
+2023-03-15 21:03:58.076152304,West,Michigan,Groceries,Desks,561,21,443.19
+2023-03-16 14:37:16.472945892,East,Michigan,Electronics,Laptops,826,12,726.88
+2023-03-17 08:10:34.869739479,South,Texas,Electronics,Pants,351,14,301.86
+2023-03-18 01:43:53.266533066,East,Virginia,Electronics,Laptops,801,6,752.94
+2023-03-18 19:17:11.663326653,West,California,Clothing,Chairs,395,23,304.15
+2023-03-19 12:50:30.060120240,West,Georgia,Groceries,Shirts,824,13,716.88
+2023-03-20 06:23:48.456913827,East,California,Groceries,Chairs,819,11,728.91
+2023-03-20 23:57:06.853707415,East,California,Groceries,Bread,848,8,780.16
+2023-03-21 17:30:25.250501002,North,Michigan,Groceries,Shirts,437,22,340.86
+2023-03-22 11:03:43.647294589,West,California,Clothing,Phones,978,17,811.74
+2023-03-23 04:37:02.044088176,East,California,Clothing,Phones,152,15,129.2
+2023-03-23 22:10:20.440881763,West,California,Groceries,Phones,891,8,819.72
+2023-03-24 15:43:38.837675350,South,Georgia,Furniture,Desks,316,8,290.72
+2023-03-25 09:16:57.234468938,East,Illinois,Groceries,Pants,863,14,742.18
+2023-03-26 02:50:15.631262525,South,Michigan,Groceries,Chairs,287,9,261.17
+2023-03-26 20:23:34.028056112,South,California,Electronics,Chairs,479,13,416.73
+2023-03-27 13:56:52.424849699,North,Florida,Furniture,Phones,592,7,550.56
+2023-03-28 07:30:10.821643286,South,Illinois,Furniture,Desks,140,21,110.6
+2023-03-29 01:03:29.218436873,South,New York,Electronics,Laptops,256,7,238.08
+2023-03-29 18:36:47.615230461,West,North Carolina,Electronics,Desks,114,20,91.2
+2023-03-30 12:10:06.012024048,East,California,Furniture,Laptops,912,8,839.04
+2023-03-31 05:43:24.408817635,South,Illinois,Furniture,Shirts,164,22,127.92
+2023-03-31 23:16:42.805611222,West,Illinois,Electronics,Chairs,956,21,755.24
+2023-04-01 16:50:01.202404809,West,Florida,Furniture,Desks,938,11,834.82
+2023-04-02 10:23:19.599198396,South,California,Electronics,Phones,620,9,564.2
+2023-04-03 03:56:37.995991984,West,Ohio,Electronics,Desks,443,16,372.12
+2023-04-03 21:29:56.392785571,North,New York,Groceries,Phones,228,21,180.12
+2023-04-04 15:03:14.789579158,East,Georgia,Furniture,Desks,747,17,620.01
+2023-04-05 08:36:33.186372745,South,Georgia,Groceries,Phones,571,7,531.03
+2023-04-06 02:09:51.583166332,South,Ohio,Clothing,Laptops,162,13,140.94
+2023-04-06 19:43:09.979959920,West,California,Groceries,Milk,238,21,188.02
+2023-04-07 13:16:28.376753507,North,Virginia,Groceries,Desks,598,21,472.42
+2023-04-08 06:49:46.773547094,North,North Carolina,Clothing,Milk,692,24,525.92
+2023-04-09 00:23:05.170340681,East,Florida,Clothing,Desks,491,20,392.8
+2023-04-09 17:56:23.567134268,West,Florida,Furniture,Chairs,774,17,642.42
+2023-04-10 11:29:41.963927855,West,Texas,Electronics,Chairs,518,23,398.86
+2023-04-11 05:03:00.360721443,West,Ohio,Furniture,Pants,388,21,306.52
+2023-04-11 22:36:18.757515030,South,Michigan,Clothing,Laptops,478,8,439.76
+2023-04-12 16:09:37.154308617,West,Ohio,Furniture,Desks,872,16,732.48
+2023-04-13 09:42:55.551102204,West,Michigan,Groceries,Chairs,589,13,512.43
+2023-04-14 03:16:13.947895791,West,Florida,Electronics,Laptops,330,23,254.1
+2023-04-14 20:49:32.344689378,South,Virginia,Groceries,Laptops,140,16,117.6
+2023-04-15 14:22:50.741482966,East,Georgia,Furniture,Laptops,127,13,110.49
+2023-04-16 07:56:09.138276552,North,Illinois,Clothing,Phones,234,11,208.26
+2023-04-17 01:29:27.535070140,North,Illinois,Clothing,Shirts,300,18,246.0
+2023-04-17 19:02:45.931863728,East,New York,Furniture,Chairs,939,24,713.64
+2023-04-18 12:36:04.328657314,West,Florida,Furniture,Chairs,879,23,676.83
+2023-04-19 06:09:22.725450902,North,Virginia,Clothing,Bread,132,19,106.92
+2023-04-19 23:42:41.122244488,East,North Carolina,Electronics,Shirts,147,20,117.6
+2023-04-20 17:15:59.519038076,East,Virginia,Clothing,Laptops,602,9,547.82
+2023-04-21 10:49:17.915831662,East,Virginia,Clothing,Bread,506,7,470.58
+2023-04-22 04:22:36.312625250,South,Illinois,Electronics,Desks,673,16,565.32
+2023-04-22 21:55:54.709418838,North,Michigan,Furniture,Bread,827,24,628.52
+2023-04-23 15:29:13.106212424,West,North Carolina,Furniture,Milk,904,8,831.68
+2023-04-24 09:02:31.503006012,North,Illinois,Clothing,Phones,198,20,158.4
+2023-04-25 02:35:49.899799598,West,California,Electronics,Chairs,783,11,696.87
+2023-04-25 20:09:08.296593186,East,California,Furniture,Shirts,971,17,805.93
+2023-04-26 13:42:26.693386774,South,Michigan,Electronics,Shirts,825,14,709.5
+2023-04-27 07:15:45.090180360,East,Michigan,Electronics,Bread,646,11,574.94
+2023-04-28 00:49:03.486973948,West,Illinois,Clothing,Phones,838,18,687.16
+2023-04-28 18:22:21.883767534,West,Illinois,Furniture,Chairs,712,9,647.92
+2023-04-29 11:55:40.280561122,North,New York,Electronics,Pants,561,7,521.73
+2023-04-30 05:28:58.677354710,South,Illinois,Clothing,Phones,742,15,630.7
+2023-04-30 23:02:17.074148296,North,Texas,Clothing,Shirts,868,15,737.8
+2023-05-01 16:35:35.470941884,South,Ohio,Clothing,Phones,104,22,81.12
+2023-05-02 10:08:53.867735470,East,Illinois,Electronics,Shirts,317,19,256.77
+2023-05-03 03:42:12.264529058,North,Texas,Clothing,Chairs,602,16,505.68
+2023-05-03 21:15:30.661322644,East,Florida,Furniture,Chairs,866,13,753.42
+2023-05-04 14:48:49.058116232,West,Ohio,Groceries,Shirts,497,14,427.42
+2023-05-05 08:22:07.454909820,South,Virginia,Furniture,Laptops,970,16,814.8
+2023-05-06 01:55:25.851703406,North,Florida,Clothing,Pants,894,21,706.26
+2023-05-06 19:28:44.248496994,North,California,Clothing,Phones,492,10,442.8
+2023-05-07 13:02:02.645290580,South,Texas,Furniture,Chairs,306,11,272.34
+2023-05-08 06:35:21.042084168,South,Ohio,Electronics,Laptops,114,18,93.48
+2023-05-09 00:08:39.438877756,West,Florida,Clothing,Bread,957,17,794.31
+2023-05-09 17:41:57.835671342,South,New York,Electronics,Bread,653,12,574.64
+2023-05-10 11:15:16.232464930,South,Ohio,Clothing,Shirts,991,14,852.26
+2023-05-11 04:48:34.629258516,East,Ohio,Furniture,Milk,560,13,487.2
+2023-05-11 22:21:53.026052104,West,Ohio,Clothing,Desks,790,22,616.2
+2023-05-12 15:55:11.422845690,East,California,Groceries,Desks,674,6,633.56
+2023-05-13 09:28:29.819639278,North,Virginia,Groceries,Shirts,963,9,876.33
+2023-05-14 03:01:48.216432866,South,California,Electronics,Phones,842,9,766.22
+2023-05-14 20:35:06.613226452,West,Michigan,Furniture,Pants,340,10,306.0
+2023-05-15 14:08:25.010020040,South,Florida,Clothing,Bread,663,23,510.51
+2023-05-16 07:41:43.406813626,East,Virginia,Clothing,Milk,195,12,171.6
+2023-05-17 01:15:01.803607214,North,Michigan,Clothing,Pants,999,20,799.2
+2023-05-17 18:48:20.200400802,North,Texas,Groceries,Milk,833,17,691.39
+2023-05-18 12:21:38.597194388,North,Georgia,Clothing,Phones,584,5,554.8
+2023-05-19 05:54:56.993987976,East,Texas,Groceries,Chairs,506,24,384.56
+2023-05-19 23:28:15.390781562,North,Georgia,Clothing,Milk,330,21,260.7
+2023-05-20 17:01:33.787575150,North,North Carolina,Groceries,Laptops,848,11,754.72
+2023-05-21 10:34:52.184368736,South,Georgia,Clothing,Phones,754,17,625.82
+2023-05-22 04:08:10.581162324,South,Florida,Groceries,Pants,270,8,248.4
+2023-05-22 21:41:28.977955912,South,Texas,Furniture,Desks,640,8,588.8
+2023-05-23 15:14:47.374749498,South,North Carolina,Clothing,Pants,135,10,121.5
+2023-05-24 08:48:05.771543086,North,Georgia,Electronics,Phones,624,23,480.48
+2023-05-25 02:21:24.168336672,West,North Carolina,Electronics,Desks,259,16,217.56
+2023-05-25 19:54:42.565130260,South,Illinois,Clothing,Chairs,938,11,834.82
+2023-05-26 13:28:00.961923848,North,Michigan,Groceries,Milk,798,14,686.28
+2023-05-27 07:01:19.358717434,East,Texas,Electronics,Desks,342,23,263.34
+2023-05-28 00:34:37.755511022,North,Virginia,Furniture,Shirts,185,11,164.65
+2023-05-28 18:07:56.152304608,East,California,Groceries,Desks,895,7,832.35
+2023-05-29 11:41:14.549098196,South,Michigan,Electronics,Laptops,677,17,561.91
+2023-05-30 05:14:32.945891784,North,Michigan,Furniture,Phones,781,17,648.23
+2023-05-30 22:47:51.342685370,East,Illinois,Clothing,Shirts,656,22,511.68
+2023-05-31 16:21:09.739478958,North,New York,Clothing,Laptops,673,24,511.48
+2023-06-01 09:54:28.136272544,East,Georgia,Electronics,Shirts,745,12,655.6
+2023-06-02 03:27:46.533066132,East,Georgia,Furniture,Shirts,895,13,778.65
+2023-06-02 21:01:04.929859718,North,Georgia,Furniture,Shirts,127,11,113.03
+2023-06-03 14:34:23.326653306,South,Illinois,Electronics,Bread,719,5,683.05
+2023-06-04 08:07:41.723446894,West,Michigan,Electronics,Pants,655,7,609.15
+2023-06-05 01:41:00.120240480,West,Florida,Electronics,Milk,439,17,364.37
+2023-06-05 19:14:18.517034068,North,Georgia,Electronics,Milk,897,21,708.63
+2023-06-06 12:47:36.913827654,East,California,Groceries,Shirts,430,5,408.5
+2023-06-07 06:20:55.310621242,West,Ohio,Groceries,Milk,739,10,665.1
+2023-06-07 23:54:13.707414830,East,Georgia,Furniture,Phones,605,10,544.5
+2023-06-08 17:27:32.104208416,East,Georgia,Clothing,Shirts,447,16,375.48
+2023-06-09 11:00:50.501002004,South,Michigan,Electronics,Shirts,572,17,474.76
+2023-06-10 04:34:08.897795590,North,North Carolina,Furniture,Pants,330,17,273.9
+2023-06-10 22:07:27.294589178,North,Michigan,Groceries,Desks,289,19,234.09
+2023-06-11 15:40:45.691382764,South,Illinois,Groceries,Milk,324,20,259.2
+2023-06-12 09:14:04.088176352,North,Ohio,Groceries,Chairs,484,15,411.4
+2023-06-13 02:47:22.484969940,West,California,Furniture,Pants,476,9,433.16
+2023-06-13 20:20:40.881763526,East,Georgia,Groceries,Desks,382,8,351.44
+2023-06-14 13:53:59.278557114,East,Florida,Groceries,Milk,732,7,680.76
+2023-06-15 07:27:17.675350700,North,Virginia,Electronics,Shirts,727,23,559.79
+2023-06-16 01:00:36.072144288,South,New York,Furniture,Laptops,844,24,641.44
+2023-06-16 18:33:54.468937876,North,Ohio,Furniture,Laptops,358,22,279.24
+2023-06-17 12:07:12.865731462,North,North Carolina,Clothing,Shirts,458,19,370.98
+2023-06-18 05:40:31.262525050,West,Ohio,Clothing,Pants,809,13,703.83
+2023-06-18 23:13:49.659318636,East,Virginia,Clothing,Pants,555,21,438.45
+2023-06-19 16:47:08.056112224,North,Virginia,Furniture,Milk,510,18,418.2
+2023-06-20 10:20:26.452905812,East,Florida,Electronics,Milk,748,19,605.88
+2023-06-21 03:53:44.849699398,East,Georgia,Clothing,Shirts,417,5,396.15
+2023-06-21 21:27:03.246492986,East,Michigan,Electronics,Chairs,776,7,721.68
+2023-06-22 15:00:21.643286572,North,Georgia,Furniture,Chairs,324,20,259.2
+2023-06-23 08:33:40.040080160,North,New York,Furniture,Shirts,918,15,780.3
+2023-06-24 02:06:58.436873746,West,North Carolina,Groceries,Milk,333,16,279.72
+2023-06-24 19:40:16.833667334,West,Georgia,Clothing,Shirts,783,14,673.38
+2023-06-25 13:13:35.230460922,East,Ohio,Furniture,Chairs,763,20,610.4
+2023-06-26 06:46:53.627254508,South,Ohio,Clothing,Phones,926,12,814.88
+2023-06-27 00:20:12.024048096,West,Michigan,Groceries,Phones,473,10,425.7
+2023-06-27 17:53:30.420841682,South,Florida,Electronics,Shirts,771,16,647.64
+2023-06-28 11:26:48.817635270,North,Texas,Groceries,Desks,707,12,622.16
+2023-06-29 05:00:07.214428858,West,New York,Clothing,Shirts,571,8,525.32
+2023-06-29 22:33:25.611222444,South,Texas,Furniture,Bread,332,12,292.16
+2023-06-30 16:06:44.008016032,South,North Carolina,Clothing,Laptops,791,22,616.98
+2023-07-01 09:40:02.404809618,South,Texas,Furniture,Milk,212,9,192.92
+2023-07-02 03:13:20.801603206,West,North Carolina,Groceries,Shirts,929,13,808.23
+2023-07-02 20:46:39.198396792,North,California,Clothing,Pants,596,8,548.32
+2023-07-03 14:19:57.595190380,West,California,Groceries,Laptops,541,21,427.39
+2023-07-04 07:53:15.991983968,North,Virginia,Groceries,Pants,663,13,576.81
+2023-07-05 01:26:34.388777554,South,Florida,Furniture,Shirts,367,5,348.65
+2023-07-05 18:59:52.785571142,West,Texas,Clothing,Laptops,609,24,462.84
+2023-07-06 12:33:11.182364728,West,North Carolina,Furniture,Pants,906,17,751.98
+2023-07-07 06:06:29.579158316,South,Illinois,Electronics,Laptops,485,20,388.0
+2023-07-07 23:39:47.975951904,South,Georgia,Furniture,Phones,486,17,403.38
+2023-07-08 17:13:06.372745490,South,California,Clothing,Milk,212,18,173.84
+2023-07-09 10:46:24.769539078,East,Michigan,Groceries,Desks,712,7,662.16
+2023-07-10 04:19:43.166332664,North,Virginia,Clothing,Milk,724,10,651.6
+2023-07-10 21:53:01.563126252,North,New York,Furniture,Pants,180,22,140.4
+2023-07-11 15:26:19.959919840,North,Georgia,Electronics,Milk,798,23,614.46
+2023-07-12 08:59:38.356713426,South,Florida,Clothing,Milk,212,9,192.92
+2023-07-13 02:32:56.753507014,East,Virginia,Groceries,Milk,101,19,81.81
+2023-07-13 20:06:15.150300600,North,North Carolina,Clothing,Chairs,741,6,696.54
+2023-07-14 13:39:33.547094188,East,Ohio,Furniture,Pants,319,14,274.34
+2023-07-15 07:12:51.943887774,West,North Carolina,Clothing,Chairs,665,22,518.7
+2023-07-16 00:46:10.340681362,West,Ohio,Electronics,Laptops,954,17,791.82
+2023-07-16 18:19:28.737474950,North,New York,Furniture,Bread,835,9,759.85
+2023-07-17 11:52:47.134268536,West,Michigan,Electronics,Milk,324,5,307.8
+2023-07-18 05:26:05.531062124,North,Georgia,Electronics,Phones,484,5,459.8
+2023-07-18 22:59:23.927855710,South,Ohio,Groceries,Shirts,502,22,391.56
+2023-07-19 16:32:42.324649298,North,Michigan,Furniture,Phones,737,19,596.97
+2023-07-20 10:06:00.721442886,West,Illinois,Electronics,Pants,229,21,180.91
+2023-07-21 03:39:19.118236472,North,Georgia,Furniture,Chairs,152,15,129.2
+2023-07-21 21:12:37.515030060,North,Texas,Groceries,Shirts,783,21,618.57
+2023-07-22 14:45:55.911823646,West,California,Groceries,Pants,829,17,688.07
+2023-07-23 08:19:14.308617234,West,Texas,Electronics,Milk,771,5,732.45
+2023-07-24 01:52:32.705410820,East,Texas,Groceries,Desks,809,6,760.46
+2023-07-24 19:25:51.102204408,South,Michigan,Furniture,Laptops,515,13,448.05
+2023-07-25 12:59:09.498997996,East,Texas,Groceries,Bread,346,7,321.78
+2023-07-26 06:32:27.895791582,West,California,Groceries,Pants,935,5,888.25
+2023-07-27 00:05:46.292585170,South,Georgia,Electronics,Chairs,538,20,430.4
+2023-07-27 17:39:04.689378756,West,Florida,Electronics,Desks,302,10,271.8
+2023-07-28 11:12:23.086172344,North,New York,Furniture,Laptops,283,21,223.57
+2023-07-29 04:45:41.482965932,South,Florida,Furniture,Bread,222,9,202.02
+2023-07-29 22:18:59.879759520,East,New York,Clothing,Desks,500,9,455.0
+2023-07-30 15:52:18.276553104,South,California,Groceries,Phones,866,10,779.4
+2023-07-31 09:25:36.673346692,East,Michigan,Furniture,Chairs,393,7,365.49
+2023-08-01 02:58:55.070140280,North,Texas,Furniture,Bread,379,9,344.89
+2023-08-01 20:32:13.466933868,West,North Carolina,Clothing,Laptops,936,9,851.76
+2023-08-02 14:05:31.863727456,East,Virginia,Furniture,Bread,983,14,845.38
+2023-08-03 07:38:50.260521040,South,Virginia,Groceries,Shirts,709,14,609.74
+2023-08-04 01:12:08.657314628,North,Illinois,Clothing,Chairs,297,23,228.69
+2023-08-04 18:45:27.054108216,West,California,Clothing,Phones,610,21,481.9
+2023-08-05 12:18:45.450901804,North,North Carolina,Furniture,Milk,851,18,697.82
+2023-08-06 05:52:03.847695392,North,Michigan,Electronics,Pants,243,13,211.41
+2023-08-06 23:25:22.244488976,East,Illinois,Furniture,Laptops,708,18,580.56
+2023-08-07 16:58:40.641282564,East,Ohio,Groceries,Phones,300,5,285.0
+2023-08-08 10:31:59.038076152,West,New York,Clothing,Bread,223,23,171.71
+2023-08-09 04:05:17.434869740,South,Virginia,Clothing,Desks,286,17,237.38
+2023-08-09 21:38:35.831663324,South,Georgia,Groceries,Phones,425,17,352.75
+2023-08-10 15:11:54.228456912,East,Virginia,Clothing,Bread,563,8,517.96
+2023-08-11 08:45:12.625250500,West,Georgia,Electronics,Shirts,448,5,425.6
+2023-08-12 02:18:31.022044088,West,Virginia,Groceries,Desks,870,21,687.3
+2023-08-12 19:51:49.418837676,West,Virginia,Electronics,Shirts,759,12,667.92
+2023-08-13 13:25:07.815631260,North,Texas,Electronics,Pants,863,6,811.22
+2023-08-14 06:58:26.212424848,East,North Carolina,Clothing,Chairs,502,12,441.76
+2023-08-15 00:31:44.609218436,North,North Carolina,Electronics,Bread,445,11,396.05
+2023-08-15 18:05:03.006012024,South,New York,Furniture,Phones,610,6,573.4
+2023-08-16 11:38:21.402805612,North,North Carolina,Clothing,Phones,246,7,228.78
+2023-08-17 05:11:39.799599196,West,California,Electronics,Milk,247,22,192.66
+2023-08-17 22:44:58.196392784,South,Illinois,Furniture,Milk,963,16,808.92
+2023-08-18 16:18:16.593186372,South,North Carolina,Electronics,Laptops,810,5,769.5
+2023-08-19 09:51:34.989979960,West,California,Clothing,Chairs,919,16,771.96
+2023-08-20 03:24:53.386773548,West,Texas,Electronics,Shirts,588,9,535.08
+2023-08-20 20:58:11.783567132,North,Illinois,Clothing,Phones,739,21,583.81
+2023-08-21 14:31:30.180360720,South,North Carolina,Electronics,Shirts,650,20,520.0
+2023-08-22 08:04:48.577154308,East,Illinois,Groceries,Desks,437,19,353.97
+2023-08-23 01:38:06.973947896,West,Virginia,Groceries,Phones,971,19,786.51
+2023-08-23 19:11:25.370741484,North,North Carolina,Electronics,Desks,740,9,673.4
+2023-08-24 12:44:43.767535068,South,Illinois,Electronics,Chairs,878,18,719.96
+2023-08-25 06:18:02.164328656,East,Ohio,Electronics,Milk,572,6,537.68
+2023-08-25 23:51:20.561122244,West,Illinois,Furniture,Shirts,250,15,212.5
+2023-08-26 17:24:38.957915832,South,North Carolina,Electronics,Shirts,514,23,395.78
+2023-08-27 10:57:57.354709420,East,North Carolina,Electronics,Chairs,397,11,353.33
+2023-08-28 04:31:15.751503004,West,Ohio,Groceries,Shirts,710,10,639.0
+2023-08-28 22:04:34.148296592,East,Illinois,Groceries,Phones,362,6,340.28
+2023-08-29 15:37:52.545090180,North,California,Clothing,Phones,863,10,776.7
+2023-08-30 09:11:10.941883768,East,Florida,Furniture,Pants,243,22,189.54
+2023-08-31 02:44:29.338677352,East,Michigan,Furniture,Pants,445,6,418.3
+2023-08-31 20:17:47.735470940,North,New York,Electronics,Pants,723,22,563.94
+2023-09-01 13:51:06.132264528,East,Virginia,Clothing,Shirts,671,19,543.51
+2023-09-02 07:24:24.529058116,North,Florida,Clothing,Pants,980,23,754.6
+2023-09-03 00:57:42.925851704,North,Georgia,Clothing,Laptops,101,6,94.94
+2023-09-03 18:31:01.322645288,South,Florida,Groceries,Milk,996,24,756.96
+2023-09-04 12:04:19.719438876,West,North Carolina,Clothing,Bread,403,10,362.7
+2023-09-05 05:37:38.116232464,North,Ohio,Groceries,Chairs,353,5,335.35
+2023-09-05 23:10:56.513026052,East,Michigan,Furniture,Desks,751,19,608.31
+2023-09-06 16:44:14.909819640,East,Illinois,Furniture,Laptops,552,14,474.72
+2023-09-07 10:17:33.306613224,East,North Carolina,Clothing,Laptops,136,23,104.72
+2023-09-08 03:50:51.703406812,North,Illinois,Groceries,Chairs,259,21,204.61
+2023-09-08 21:24:10.100200400,West,Illinois,Clothing,Shirts,108,9,98.28
+2023-09-09 14:57:28.496993988,North,Ohio,Electronics,Pants,332,8,305.44
+2023-09-10 08:30:46.893787576,East,New York,Electronics,Laptops,198,14,170.28
+2023-09-11 02:04:05.290581160,East,Virginia,Furniture,Shirts,758,21,598.82
+2023-09-11 19:37:23.687374748,North,Virginia,Furniture,Bread,915,14,786.9
+2023-09-12 13:10:42.084168336,North,New York,Electronics,Chairs,307,21,242.53
+2023-09-13 06:44:00.480961924,North,Florida,Groceries,Pants,230,24,174.8
+2023-09-14 00:17:18.877755512,South,Florida,Furniture,Pants,503,9,457.73
+2023-09-14 17:50:37.274549096,East,Illinois,Groceries,Pants,251,6,235.94
+2023-09-15 11:23:55.671342684,West,Michigan,Electronics,Milk,153,10,137.7
+2023-09-16 04:57:14.068136272,South,Georgia,Electronics,Laptops,219,6,205.86
+2023-09-16 22:30:32.464929860,East,New York,Electronics,Desks,772,17,640.76
+2023-09-17 16:03:50.861723448,West,Michigan,Clothing,Shirts,727,15,617.95
+2023-09-18 09:37:09.258517032,North,Virginia,Clothing,Milk,686,15,583.1
+2023-09-19 03:10:27.655310620,East,North Carolina,Groceries,Shirts,724,20,579.2
+2023-09-19 20:43:46.052104208,West,North Carolina,Groceries,Pants,519,15,441.15
+2023-09-20 14:17:04.448897796,East,Michigan,Furniture,Pants,521,23,401.17
+2023-09-21 07:50:22.845691380,East,New York,Groceries,Pants,203,19,164.43
+2023-09-22 01:23:41.242484968,East,Georgia,Furniture,Chairs,951,20,760.8
+2023-09-22 18:56:59.639278556,South,Michigan,Groceries,Phones,353,15,300.05
+2023-09-23 12:30:18.036072144,South,Michigan,Electronics,Shirts,326,20,260.8
+2023-09-24 06:03:36.432865732,East,California,Electronics,Pants,211,12,185.68
+2023-09-24 23:36:54.829659316,South,Michigan,Furniture,Chairs,609,8,560.28
+2023-09-25 17:10:13.226452904,West,North Carolina,Clothing,Pants,572,12,503.36
+2023-09-26 10:43:31.623246492,South,Michigan,Groceries,Bread,198,8,182.16
+2023-09-27 04:16:50.020040080,North,Florida,Furniture,Bread,252,7,234.36
+2023-09-27 21:50:08.416833668,East,Florida,Clothing,Shirts,960,7,892.8
+2023-09-28 15:23:26.813627252,South,Michigan,Electronics,Chairs,995,22,776.1
+2023-09-29 08:56:45.210420840,South,Ohio,Groceries,Bread,977,23,752.29
+2023-09-30 02:30:03.607214428,South,California,Electronics,Shirts,437,23,336.49
+2023-09-30 20:03:22.004008016,East,Michigan,Groceries,Chairs,805,9,732.55
+2023-10-01 13:36:40.400801604,East,North Carolina,Groceries,Milk,921,22,718.38
+2023-10-02 07:09:58.797595188,South,Georgia,Electronics,Laptops,262,14,225.32
+2023-10-03 00:43:17.194388776,East,North Carolina,Electronics,Chairs,819,10,737.1
+2023-10-03 18:16:35.591182364,East,Texas,Electronics,Desks,780,5,741.0
+2023-10-04 11:49:53.987975952,West,New York,Furniture,Chairs,260,9,236.6
+2023-10-05 05:23:12.384769540,North,Texas,Electronics,Chairs,679,13,590.73
+2023-10-05 22:56:30.781563124,West,Ohio,Groceries,Pants,900,16,756.0
+2023-10-06 16:29:49.178356712,East,Michigan,Clothing,Desks,497,18,407.54
+2023-10-07 10:03:07.575150300,South,Ohio,Electronics,Pants,376,6,353.44
+2023-10-08 03:36:25.971943888,West,California,Electronics,Chairs,915,21,722.85
+2023-10-08 21:09:44.368737472,West,Virginia,Clothing,Bread,603,18,494.46
+2023-10-09 14:43:02.765531060,West,Ohio,Electronics,Milk,995,17,825.85
+2023-10-10 08:16:21.162324648,North,Texas,Electronics,Shirts,491,13,427.17
+2023-10-11 01:49:39.559118236,East,Florida,Clothing,Milk,234,19,189.54
+2023-10-11 19:22:57.955911824,West,Virginia,Electronics,Phones,294,19,238.14
+2023-10-12 12:56:16.352705408,South,California,Clothing,Desks,500,15,425.0
+2023-10-13 06:29:34.749498996,East,Virginia,Furniture,Laptops,739,20,591.2
+2023-10-14 00:02:53.146292584,North,North Carolina,Groceries,Shirts,132,21,104.28
+2023-10-14 17:36:11.543086172,North,Ohio,Groceries,Chairs,787,8,724.04
+2023-10-15 11:09:29.939879760,East,Michigan,Clothing,Phones,559,5,531.05
+2023-10-16 04:42:48.336673344,North,Florida,Clothing,Chairs,982,12,864.16
+2023-10-16 22:16:06.733466932,West,California,Clothing,Chairs,569,21,449.51
+2023-10-17 15:49:25.130260520,West,Florida,Groceries,Phones,474,7,440.82
+2023-10-18 09:22:43.527054108,North,North Carolina,Furniture,Bread,121,24,91.96
+2023-10-19 02:56:01.923847696,South,Texas,Clothing,Pants,849,19,687.69
+2023-10-19 20:29:20.320641280,North,North Carolina,Furniture,Chairs,769,19,622.89
+2023-10-20 14:02:38.717434868,North,North Carolina,Groceries,Chairs,137,18,112.34
+2023-10-21 07:35:57.114228456,North,Illinois,Electronics,Phones,329,18,269.78
+2023-10-22 01:09:15.511022044,North,North Carolina,Groceries,Phones,464,6,436.16
+2023-10-22 18:42:33.907815632,North,Ohio,Electronics,Laptops,662,17,549.46
+2023-10-23 12:15:52.304609216,South,New York,Electronics,Milk,537,18,440.34
+2023-10-24 05:49:10.701402804,West,Ohio,Groceries,Chairs,875,23,673.75
+2023-10-24 23:22:29.098196392,East,Ohio,Groceries,Desks,382,11,339.98
+2023-10-25 16:55:47.494989980,West,Michigan,Groceries,Pants,126,7,117.18
+2023-10-26 10:29:05.891783568,North,Ohio,Clothing,Desks,325,19,263.25
+2023-10-27 04:02:24.288577152,South,Ohio,Groceries,Bread,376,18,308.32
+2023-10-27 21:35:42.685370740,North,Virginia,Groceries,Bread,897,15,762.45
+2023-10-28 15:09:01.082164328,West,Illinois,Electronics,Chairs,708,19,573.48
+2023-10-29 08:42:19.478957916,North,Virginia,Groceries,Desks,383,17,317.89
+2023-10-30 02:15:37.875751500,East,Georgia,Furniture,Pants,978,22,762.84
+2023-10-30 19:48:56.272545088,South,Ohio,Furniture,Pants,580,10,522.0
+2023-10-31 13:22:14.669338676,East,Michigan,Clothing,Laptops,552,7,513.36
+2023-11-01 06:55:33.066132264,North,New York,Clothing,Desks,928,23,714.56
+2023-11-02 00:28:51.462925852,West,California,Electronics,Laptops,915,19,741.15
+2023-11-02 18:02:09.859719436,South,Ohio,Groceries,Chairs,758,9,689.78
+2023-11-03 11:35:28.256513024,South,Ohio,Groceries,Bread,615,14,528.9
+2023-11-04 05:08:46.653306612,South,Florida,Electronics,Desks,646,11,574.94
+2023-11-04 22:42:05.050100200,West,Florida,Clothing,Shirts,291,21,229.89
+2023-11-05 16:15:23.446893788,West,Michigan,Electronics,Pants,148,11,131.72
+2023-11-06 09:48:41.843687372,East,Florida,Clothing,Desks,611,16,513.24
+2023-11-07 03:22:00.240480960,West,Texas,Clothing,Desks,116,21,91.64
+2023-11-07 20:55:18.637274548,East,Illinois,Electronics,Shirts,271,17,224.93
+2023-11-08 14:28:37.034068136,South,California,Furniture,Pants,319,24,242.44
+2023-11-09 08:01:55.430861724,East,Texas,Electronics,Laptops,257,8,236.44
+2023-11-10 01:35:13.827655308,West,Georgia,Clothing,Bread,576,14,495.36
+2023-11-10 19:08:32.224448896,East,Virginia,Furniture,Desks,145,7,134.85
+2023-11-11 12:41:50.621242484,East,North Carolina,Clothing,Desks,472,13,410.64
+2023-11-12 06:15:09.018036072,East,Illinois,Clothing,Milk,617,17,512.11
+2023-11-12 23:48:27.414829660,North,Texas,Groceries,Pants,198,22,154.44
+2023-11-13 17:21:45.811623244,East,Georgia,Groceries,Bread,991,19,802.71
+2023-11-14 10:55:04.208416832,North,Illinois,Furniture,Chairs,844,8,776.48
+2023-11-15 04:28:22.605210420,North,Georgia,Furniture,Chairs,136,19,110.16
+2023-11-15 22:01:41.002004008,East,New York,Clothing,Shirts,379,6,356.26
+2023-11-16 15:34:59.398797596,West,Ohio,Furniture,Phones,448,19,362.88
+2023-11-17 09:08:17.795591180,East,Illinois,Groceries,Phones,596,12,524.48
+2023-11-18 02:41:36.192384768,South,Illinois,Clothing,Chairs,401,12,352.88
+2023-11-18 20:14:54.589178356,West,Michigan,Clothing,Shirts,280,21,221.2
+2023-11-19 13:48:12.985971944,East,North Carolina,Groceries,Desks,706,16,593.04
+2023-11-20 07:21:31.382765528,West,Illinois,Electronics,Chairs,198,23,152.46
+2023-11-21 00:54:49.779559116,North,North Carolina,Furniture,Milk,799,14,687.14
+2023-11-21 18:28:08.176352704,East,Michigan,Clothing,Milk,215,13,187.05
+2023-11-22 12:01:26.573146292,East,California,Clothing,Shirts,290,9,263.9
+2023-11-23 05:34:44.969939880,North,Florida,Furniture,Chairs,352,10,316.8
+2023-11-23 23:08:03.366733464,South,California,Groceries,Bread,260,24,197.6
+2023-11-24 16:41:21.763527052,West,North Carolina,Furniture,Desks,355,6,333.7
+2023-11-25 10:14:40.160320640,North,Michigan,Furniture,Phones,422,17,350.26
+2023-11-26 03:47:58.557114228,South,California,Groceries,Desks,227,10,204.3
+2023-11-26 21:21:16.953907816,East,Illinois,Furniture,Shirts,117,9,106.47
+2023-11-27 14:54:35.350701400,West,Georgia,Groceries,Pants,892,5,847.4
+2023-11-28 08:27:53.747494988,East,New York,Clothing,Chairs,834,10,750.6
+2023-11-29 02:01:12.144288576,North,Michigan,Electronics,Milk,665,10,598.5
+2023-11-29 19:34:30.541082164,East,Florida,Groceries,Laptops,669,20,535.2
+2023-11-30 13:07:48.937875752,West,Georgia,Furniture,Milk,422,8,388.24
+2023-12-01 06:41:07.334669336,South,Ohio,Groceries,Bread,971,15,825.35
+2023-12-02 00:14:25.731462924,South,Georgia,Electronics,Milk,785,13,682.95
+2023-12-02 17:47:44.128256512,South,North Carolina,Clothing,Chairs,891,7,828.63
+2023-12-03 11:21:02.525050100,North,Virginia,Electronics,Desks,725,23,558.25
+2023-12-04 04:54:20.921843688,East,Florida,Electronics,Phones,387,12,340.56
+2023-12-04 22:27:39.318637272,East,North Carolina,Furniture,Desks,953,9,867.23
+2023-12-05 16:00:57.715430860,West,Virginia,Electronics,Laptops,762,8,701.04
+2023-12-06 09:34:16.112224448,North,Texas,Electronics,Chairs,738,10,664.2
+2023-12-07 03:07:34.509018036,West,Florida,Clothing,Bread,254,6,238.76
+2023-12-07 20:40:52.905811624,South,New York,Clothing,Laptops,589,24,447.64
+2023-12-08 14:14:11.302605208,West,North Carolina,Furniture,Bread,485,15,412.25
+2023-12-09 07:47:29.699398796,South,Virginia,Clothing,Bread,884,8,813.28
+2023-12-10 01:20:48.096192384,South,California,Groceries,Shirts,203,19,164.43
+2023-12-10 18:54:06.492985972,South,Florida,Furniture,Shirts,492,10,442.8
+2023-12-11 12:27:24.889779556,West,North Carolina,Clothing,Milk,910,21,718.9
+2023-12-12 06:00:43.286573144,North,Florida,Clothing,Bread,345,10,310.5
+2023-12-12 23:34:01.683366732,South,Georgia,Electronics,Milk,275,23,211.75
+2023-12-13 17:07:20.080160320,East,North Carolina,Groceries,Pants,138,6,129.72
+2023-12-14 10:40:38.476953908,South,Illinois,Clothing,Phones,576,19,466.56
+2023-12-15 04:13:56.873747492,West,Ohio,Electronics,Laptops,781,15,663.85
+2023-12-15 21:47:15.270541080,South,Illinois,Groceries,Milk,858,12,755.04
+2023-12-16 15:20:33.667334668,South,Michigan,Electronics,Laptops,637,23,490.49
+2023-12-17 08:53:52.064128256,East,Texas,Furniture,Pants,966,17,801.78
+2023-12-18 02:27:10.460921844,West,Texas,Groceries,Phones,917,16,770.28
+2023-12-18 20:00:28.857715428,West,Ohio,Furniture,Laptops,507,9,461.37
+2023-12-19 13:33:47.254509016,South,Illinois,Clothing,Bread,624,10,561.6
+2023-12-20 07:07:05.651302604,West,Texas,Furniture,Phones,927,8,852.84
+2023-12-21 00:40:24.048096192,South,Ohio,Electronics,Shirts,605,23,465.85
+2023-12-21 18:13:42.444889780,East,Illinois,Furniture,Pants,924,24,702.24
+2023-12-22 11:47:00.841683364,West,Florida,Furniture,Phones,135,5,128.25
+2023-12-23 05:20:19.238476952,North,Virginia,Clothing,Pants,784,24,595.84
+2023-12-23 22:53:37.635270540,South,New York,Clothing,Desks,119,21,94.01
+2023-12-24 16:26:56.032064128,North,Florida,Furniture,Laptops,420,16,352.8
+2023-12-25 10:00:14.428857716,West,Ohio,Electronics,Milk,875,19,708.75
+2023-12-26 03:33:32.825651300,North,Ohio,Clothing,Shirts,611,5,580.45
+2023-12-26 21:06:51.222444888,West,California,Clothing,Desks,499,18,409.18
+2023-12-27 14:40:09.619238476,North,North Carolina,Furniture,Milk,753,10,677.7
+2023-12-28 08:13:28.016032064,North,Texas,Electronics,Phones,982,9,893.62
+2023-12-29 01:46:46.412825652,South,Texas,Clothing,Chairs,570,15,484.5
+2023-12-29 19:20:04.809619236,West,Ohio,Furniture,Desks,242,8,222.64
+2023-12-30 12:53:23.206412824,South,Michigan,Clothing,Shirts,191,17,158.53
+2023-12-31 06:26:41.603206412,North,Michigan,Furniture,Desks,453,15,385.05
+2024-01-01 00:00:00.000000000,North,Georgia,Furniture,Desks,933,7,867.69
